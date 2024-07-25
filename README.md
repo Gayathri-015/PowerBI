@@ -1,3 +1,3 @@
 # PowerBI
 
-![Dashboard Screenshot:] (Dashboard.png)
+![Dashboard Screenshot] (Dashboard.png)
